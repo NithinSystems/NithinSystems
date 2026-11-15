@@ -1,56 +1,80 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="NithinSystems — Practical intelligence. Thoughtful automation." width="100%">
+</p>
 
-# NITHINSYSTEMS
+<p align="center">
+  <strong>Building useful systems for a more automated world.</strong><br>
+  Clear ideas. Thoughtful design. Tools made to solve real problems.
+</p>
 
-### Practical intelligence. Thoughtful automation.
-
-**AI agents · Automation templates · Lightweight software · Digital design**
-
-Building useful systems that make technology easier to work with.
-
-</div>
-
----
+<br>
 
 ## The idea
 
-Good technology should make a real task simpler. NithinSystems is an independent initiative exploring how AI, automation, software, and design can help people spend less time on repetitive work and more time on what matters.
+Technology should make everyday work feel simpler. **NithinSystems** is an independent initiative exploring how AI, automation, software and design can help people work with less friction.
 
-I'm building in public and learning through the work: starting with small, understandable solutions, documenting how they work, and improving them with feedback.
+I'm learning and building in public—starting with focused ideas, making the work understandable, and improving it through feedback.
 
-## Areas of focus
+<br>
 
-| Area | What I'm working towards |
-| :--- | :--- |
-| **AI agents** | Focused assistants and workflows for specific, practical tasks. |
-| **Automation** | Reusable templates that help simplify repeatable processes. |
-| **Lightweight tools** | Small software products built around clear user needs. |
-| **Product design** | Interfaces and digital resources that make complex tools feel approachable. |
+## What I'm building
 
-## Featured work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Invoice Follow-up Starter · In development
+### ✦ AI agents & assistants
+Purposeful AI workflows designed around specific tasks and human oversight.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Automation templates
+Reusable starting points that make repetitive business processes easier to manage.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌘ Lightweight tools
+Small software products and experiments built around clear, practical needs.
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ UI/UX resources
+Thoughtful interfaces and digital resources that make technology more approachable.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## On the workbench
+
+### Invoice Follow-up Starter
 
 An early local prototype that turns overdue invoice information into reminder drafts for human review. It is being improved and tested before public release.
 
-**Focus:** Python · invoice workflows · human review
+`Python` &nbsp; `Invoice workflows` &nbsp; `Human review` &nbsp; **In development**
 
-## What matters here
+<br>
 
-**Useful by design.** Start with a real problem and a solution people can understand.
+## How I work
 
-**Open to learning.** Share progress honestly, welcome feedback, and improve in public.
+**Start with the problem.** Build for a real task instead of adding complexity for its own sake.
 
-**Thoughtful execution.** Document setup, explain limitations, and make deliberate choices about privacy, permissions, and reliability.
+**Make the work understandable.** Provide clear instructions and examples as projects become ready to share.
 
-## Follow the journey
+**Be honest about progress.** Share limitations, learn from feedback and improve in public.
 
-Projects and documentation will be added as they are ready to share. If you find an idea useful, explore the repository when it becomes available or follow along here on GitHub.
-
-<div align="center">
+<br>
 
 ---
 
-**NithinSystems** · Building practical systems, one useful product at a time.
-
-</div>
+<p align="center">
+  <strong>One useful product at a time.</strong><br>
+  <sub>Follow <a href="https://github.com/NithinSystems">NithinSystems</a> to see what I'm building.</sub>
+</p>
