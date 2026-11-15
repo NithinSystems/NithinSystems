@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">NithinSystems</title><desc id="desc">Practical intelligence. Thoughtful automation.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091426"/><stop offset="1" stop-color="#0a2030"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#7ae6d0"/><stop offset="1" stop-color="#79a9fb"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#7ae6d0" opacity=".12"><circle cx="1036" cy="150" r="124"/><circle cx="1036" cy="150" r="94"/><circle cx="1036" cy="150" r="64"/><path d="M876 150h320M1036 0v300M920 34l232 232M920 266l232-232"/></g>
+<circle cx="1036" cy="150" r="9" fill="#7ae6d0"/><circle cx="1124" cy="59" r="4" fill="#79a9fb"/><circle cx="947" cy="242" r="4" fill="#7ae6d0"/>
+<rect x="64" y="53" width="8" height="8" rx="4" fill="#7ae6d0"/><text x="84" y="61" fill="#a3b7ca" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">INDEPENDENT PRODUCT STUDIO</text>
+<text x="62" y="133" fill="#f4f8fc" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">NithinSystems</text>
+<rect x="64" y="155" width="56" height="3" rx="2" fill="url(#accent)"/>
+<text x="64" y="199" fill="#d1e1ed" font-family="Arial, sans-serif" font-size="22">Practical intelligence. Thoughtful automation.</text>
+<text x="64" y="242" fill="#86a5ba" font-family="Arial, sans-serif" font-size="14" letter-spacing="1">AI AGENTS  /  AUTOMATION  /  LIGHTWEIGHT SOFTWARE  /  DESIGN</text>
+</svg>
